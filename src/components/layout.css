@@ -39,10 +39,79 @@
   }
 }
  
+@font-face {
+  font-family: FilsonPro;
+  src: url("fonts/FilsonProBlack-Black [TheFontsMaster.com].otf") format("opentype");
+  font-style: 900;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: FilsonPro;
+  src: url("fonts/FilsonPro-Heavy [TheFontsMaster.com].otf") format("opentype");
+  font-style: 800;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: FilsonPro;
+  src: url("fonts/FilsonProBold-Bold [TheFontsMaster.com].otf") format("opentype");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: FilsonPro;
+  src: url("fonts/FilsonProLight-Light [TheFontsMaster.com].otf") format("opentype");
+  font-style: normal;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: FilsonPro;
+  src: url("fonts/FilsonProMedium-Medium [TheFontsMaster.com].otf") format("opentype");
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: FilsonPro;
+  src: url("fonts/FilsonProMediumItalic-Italic [TheFontsMaster.com].otf") format("opentype");
+  font-style: italic;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: FilsonPro;
+  /* src: url("fonts/FilsonProRegular-Regular [TheFontsMaster.com].otf") format("opentype"); */
+  src: url("fonts/FilsonProBook-Book [TheFontsMaster.com].otf") format("opentype");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: FilsonPro;
+  src: url("fonts/FilsonProRegularItalic-Italic [TheFontsMaster.com].otf") format("opentype");
+  font-style: italic;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: FilsonPro;
+  src: url("fonts/FilsonProThin-Thin [TheFontsMaster.com].otf") format("opentype");
+  font-style: normal;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: FilsonPro;
+  src: url("fonts/FilsonProThinItalic-Italic [TheFontsMaster.com].otf") format("opentype");
+  font-style: italic;
+  font-weight: 100;
+}
 
 
 html {
-  font-family: 'Muli', sans-serif;
+  font-family: 'FilsonPro', sans-serif;   
 
   /* --red: #F52D2D; */
   --red: #ED4934;

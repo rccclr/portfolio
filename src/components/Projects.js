@@ -1,6 +1,6 @@
 import React from 'react'
 
-import ProjectCard from '../components/ProjectCard'
+import ProjectCard from './ProjectCard'
 
 class Projects extends React.Component {
     render() {

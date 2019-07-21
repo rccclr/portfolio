@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-import AnimateLoad from '../components/AnimateLoad'
+import AnimateLoad from './AnimateLoad'
 
 import Scrollspy from 'react-scrollspy'
 
@@ -38,13 +38,13 @@ class Header extends React.Component {
         <div className="w-100 flex justify-between items-center">
           <h1 className="f5">
             <Link to="/" className="link dim near-black fw7 ttu">
-              Cristiano Dalbem
+              Raimundo Carlos Laguía Dalbem
             </Link>
 
             {/* {
               isHome ?
                 <Link to="/" className="link dim near-black fw6">
-                  Cristiano Dalbem
+                  Raimundo Carlos Laguía Dalbem
                 </Link>
                 :
                 <Link to="/" className="link dim near-black fw6 blue">

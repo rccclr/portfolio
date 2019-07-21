@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 import { StaticQuery, graphql } from 'gatsby'
 
-import AnimateLoad from '../components/AnimateLoad'
+import AnimateLoad from './AnimateLoad'
 
 import Header from './Header'
 import Footer from './Footer'
@@ -39,7 +39,7 @@ const Layout = ({ children }) => (
           <Helmet
             title={data.site.siteMetadata.title}
             meta={[
-              { name: 'description', content: 'Personal website of Cristiano Dalbem, a designer of products and systems.' },
+              { name: 'description', content: 'Personal website of Raimundo Carlos Laguía Dalbem, a designer of products and systems.' },
             ]}
           >
             <html lang="en" />

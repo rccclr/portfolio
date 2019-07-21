@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: 'Cristiano Dalbem',
+    title: 'Raimundo Carlos Laguía',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Cristiano Dalbem Portfolio',
-        short_name: 'Cristiano Dalbem',
+        name: 'Raimundo Carlos Laguía Portfolio',
+        short_name: 'Raimundo Carlos Laguía',
         start_url: '/',
         // background_color: '#ffffff',
         theme_color: '#ffffff',

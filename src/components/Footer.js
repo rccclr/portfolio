@@ -51,7 +51,7 @@ const Footer = () => (
             </a>
             <a
                 className="pl3-ns pr0-ns pr3 pl0 dim moon-gray"
-                href="mailto:cristiano.dalbem@gmail.com
+                href="mailto:Raimundo Carlos Laguía.dalbem@gmail.com
                 ">
                 <svg width='16' height='16' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'
                     fill='none' stroke='currentColor' strokeWidth='2' strokeLinecap='round'

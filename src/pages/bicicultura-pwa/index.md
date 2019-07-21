@@ -13,7 +13,7 @@ cover: './cover.png'
 # Context
 Bicicultura is the biggest event about cycling culture in Brazil, and is hold every year in a different city. The event aims to bring together discussions and workshops on the diverse theme of urban mobility, touching the cultural, social, political, artistic, economic and environmental. It's organized by UCB, the biggest organization on ciclism in the country, and is helped by local groups. 
 
-In the past year the event was held in Recife, which I had the pleasure to be invitied to present my project [bike de boa](https://cristianodalbem.com/bike-de-boa/). In 2018 it'd be held in Rio de Janeiro, the city where I just moved to, and I really wanted to help with it. The Transporte Ativo organization and its founder Zé Lobo are highly influential in the cicloativism scene and I was fortunate to know them already from a previous partnership.
+In the past year the event was held in Recife, which I had the pleasure to be invitied to present my project [bike de boa](https://Raimundo Carlos Laguíadalbem.com/bike-de-boa/). In 2018 it'd be held in Rio de Janeiro, the city where I just moved to, and I really wanted to help with it. The Transporte Ativo organization and its founder Zé Lobo are highly influential in the cicloativism scene and I was fortunate to know them already from a previous partnership.
 
 
 # The problem

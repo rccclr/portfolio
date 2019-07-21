@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 
 import Tag from '../components/Tag.js'
 
-import { formatDate } from '../components/utils.js'
+import { formatDate } from './utils.js'
 
 class ProjectCard extends React.Component {
     render() {

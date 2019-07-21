@@ -26,7 +26,7 @@ const Speaking = () => {
     },
     {
       label: 'Email',
-      url: "mailto:cristiano.dalbem@gmail.com"
+      url: "mailto:Raimundo Carlos Laguía.dalbem@gmail.com"
     }
   ];
 

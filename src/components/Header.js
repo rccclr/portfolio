@@ -38,13 +38,13 @@ class Header extends React.Component {
         <div className="w-100 flex justify-between items-center">
           <h1 className="f5">
             <Link to="/" className="link dim near-black fw7 ttu">
-              Raimundo Carlos Laguía Dalbem
+              Raimundo Carlos Laguía
             </Link>
 
             {/* {
               isHome ?
                 <Link to="/" className="link dim near-black fw6">
-                  Raimundo Carlos Laguía Dalbem
+                  Raimundo Carlos Laguía
                 </Link>
                 :
                 <Link to="/" className="link dim near-black fw6 blue">

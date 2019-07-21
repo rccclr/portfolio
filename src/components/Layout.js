@@ -39,7 +39,7 @@ const Layout = ({ children }) => (
           <Helmet
             title={data.site.siteMetadata.title}
             meta={[
-              { name: 'description', content: 'Personal website of Raimundo Carlos Laguía Dalbem, a designer of products and systems.' },
+              { name: 'description', content: 'Personal website of Raimundo Carlos Laguía, a designer of products and systems.' },
             ]}
           >
             <html lang="en" />

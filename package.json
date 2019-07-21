@@ -1,8 +1,8 @@
 {
   "name": "cmdalbem-portfolio",
-  "description": "Raimundo Carlos Laguía Dalbem personal website and portfolio",
+  "description": "Raimundo Carlos Laguía personal website and portfolio",
   "version": "1.0.0",
-  "author": "Raimundo Carlos Laguía Dalbem <Raimundo Carlos Laguía.dalbem@gmail.com>",
+  "author": "Raimundo Carlos Laguía <Raimundo Carlos Laguía.dalbem@gmail.com>",
   "dependencies": {
     "@halkeye/gatsby-source-goodreads": "^0.0.6",
     "gatsby": "^2.0.0",

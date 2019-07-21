@@ -5,7 +5,7 @@ title: "Game of Lives"
 minibio: "A Virtual Reality game that aims to foster empathy for social issues."
 description: "A story-telling VR game inspired by the best “walking simulators” that will challenge you to see the world from other people’s eyes. Winner of the first Isobar International Hackathon."
 tags: ['game design']
-team: "André Trevisani, Raimundo Carlos Laguía Dalbem, Diego Cunha, Diego Tomasi, Leonardo Schenfeld, Victória Aiello"
+team: "André Trevisani, Raimundo Carlos Laguía, Diego Cunha, Diego Tomasi, Leonardo Schenfeld, Victória Aiello"
 cover: "./cover.png"
 ---
 

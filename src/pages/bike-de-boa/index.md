@@ -6,7 +6,7 @@ title: "bike de boa"
 minibio: "Web app for collaboratively mapping safe places in the city to park your bike."
 description: "A cicloactivist project that aims to foster a positive vibe in the community, encouraging people to use more their bikes in the city. With the web app you can search for safe places to park your bike nearby, as well as map new ones while learning what makes for good bike parking and safer streets."
 tags: ['design','front-end','back-end','product management','branding']
-team: "Raimundo Carlos Laguía Dalbem, Hannah Kny, Tadeu Saldanha, Denner Evaldt, Francisco Cenzi, and others."
+team: "Raimundo Carlos Laguía, Hannah Kny, Tadeu Saldanha, Denner Evaldt, Francisco Cenzi, and others."
 cover: './cover.png'
 forceOrder: 2
 ---

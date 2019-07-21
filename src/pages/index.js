@@ -62,7 +62,7 @@ class IndexPage extends React.Component {
               />
 
               <h1 className="f1-ns f2 fw9 dark-gray absolute lh-solid top-0 left-3-ns pt5 mt6-ns ml7-ns ml4 mt6 mr3 mw6-ns tl-ns tr">
-                I'm a designer of products and systems.
+                Hola, bienvenido. Este es el portfolio, del hijo de Cari (Tamarón) y Rimun (Chema/Ciquelo).
               </h1>
             </div> 
 
